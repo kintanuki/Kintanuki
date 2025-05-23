@@ -70,9 +70,8 @@ Aquí algunos de los proyectos que estoy desarrollando o en los que he trabajado
 
 Si quieres hablar sobre proyectos, colaborar o simplemente saludar:
 
-- 💌 Correo: [tucorreo@ejemplo.com]
-- 🐦 Twitter: [@TuUsuario](https://twitter.com/TuUsuario) *(opcional)*
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario) *(opcional)*
+- 💌 Gmail: juandiquintanareyes@gmail.com
+- 💼 LinkedIn:
 
 ---
 
