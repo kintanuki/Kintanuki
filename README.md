@@ -71,7 +71,7 @@ Aquí algunos de los proyectos que estoy desarrollando o en los que he trabajado
 Si quieres hablar sobre proyectos, colaborar o simplemente saludar:
 
 - 💌 Gmail: juandiquintanareyes@gmail.com
-- 💼 LinkedIn:
+- 💼 LinkedIn: https://www.linkedin.com/in/juan-diego-87830a174/
 
 ---
 
