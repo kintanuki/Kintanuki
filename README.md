@@ -6,7 +6,7 @@ text, text
 
 ---
 
-### 🚀  about me
+<h2 aling"left> 🚀  about me</h2>
 
 - 🎓 Soy estudiante/desarrollador autodidacta apasionado por el desarrollo de software.
 - 💼 Trabajo en proyectos personales y colaborativos que involucran **Flutter**, **Express**, **MySQL** y más.
@@ -16,7 +16,7 @@ text, text
 
 ---
 
-### 🔧 Tech Stack
+<h2 align="left">🔧 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
