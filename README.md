@@ -1,9 +1,18 @@
-<h1 align="center">¡Hola! 👋 Soy Kintanuki</h1>
+<h1 align="center">¡Hi! 👋 i´m Juan Diego Quintana</h1>
 
 <p align="center">
-  Desarrollador apasionado por la tecnología, la programación y la resolución creativa de problemas.  
-  Me gusta explorar nuevas herramientas, frameworks y construir proyectos que tengan un impacto.
+text, text
 </p>
+
+---
+
+### 🚀  about me
+
+- 🎓 Soy estudiante/desarrollador autodidacta apasionado por el desarrollo de software.
+- 💼 Trabajo en proyectos personales y colaborativos que involucran **Flutter**, **Express**, **MySQL** y más.
+- ⚡ Me interesa el desarrollo móvil, las APIs y la seguridad informática.
+- 📚 Siempre estoy aprendiendo cosas nuevas para mejorar como desarrollador.
+- 🧠 Actualmente enfocado en crear soluciones prácticas para la comunidad universitaria.
 
 ---
 
@@ -29,15 +38,7 @@
 
 ---
 
-### 🚀 Sobre mí
 
-- 🎓 Soy estudiante/desarrollador autodidacta apasionado por el desarrollo de software.
-- 💼 Trabajo en proyectos personales y colaborativos que involucran **Flutter**, **Express**, **MySQL** y más.
-- ⚡ Me interesa el desarrollo móvil, las APIs y la seguridad informática.
-- 📚 Siempre estoy aprendiendo cosas nuevas para mejorar como desarrollador.
-- 🧠 Actualmente enfocado en crear soluciones prácticas para la comunidad universitaria.
-
----
 
 ### 🔧 Tecnologías y herramientas
 
