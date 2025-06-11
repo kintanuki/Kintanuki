@@ -40,7 +40,7 @@ Passionate developer focused on creating impactful solutions through web and mob
 <h2 align="left">📫 Contact</h2>
 
 - 💌 juandiquintanareyes@gmail.com  
-- - 💼 LinkedIn: https://www.linkedin.com/in/juan-diego-87830a174/
+- 💼 [LinkedIn]([https://www.linkedin.com/in/juan-diego-87830a174/](https://www.linkedin.com/in/juan-diego-quintana-reyes-87830a174/))
 
 ---
 
