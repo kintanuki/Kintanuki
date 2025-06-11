@@ -30,11 +30,6 @@ Passionate developer focused on creating impactful solutions through web and mob
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Kintanuki&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" 
-    height="170" 
-    alt="GitHub Stats" 
-  />
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Kintanuki&layout=compact&langs_count=6&theme=dracula&hide_border=false" 
     height="170" 
     alt="Top Languages" 
@@ -42,24 +37,10 @@ Passionate developer focused on creating impactful solutions through web and mob
 </div>
 
 ---
-
-<h2 align="left">📌 Featured Repositories</h2>
-
-Aquí algunos de los proyectos que estoy desarrollando o en los que he trabajado:
-
-- 🔐 [Flutter + Express Auth System](https://github.com/Kintanuki/flutter-auth-api)
-- 🍔 [Campus Food Delivery App (like Rappi)](https://github.com/Kintanuki/app-comida-campus)
-- 📊 [Regression Model with Abalone Data](https://github.com/Kintanuki/regresion-abalone)
-- 🧮 [Mobile Calculator in Flutter](https://github.com/Kintanuki/calculadora-flutter)
-
-> *I'm open to collaborations and exciting new projects!*
-
----
-
 <h2 align="left">📫 Contact</h2>
 
 - 💌 juandiquintanareyes@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/juan-diego-87830a174/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/juan-diego-87830a174/](https://www.linkedin.com/in/juan-diego-quintana-reyes-87830a174/))
 
 ---
 
