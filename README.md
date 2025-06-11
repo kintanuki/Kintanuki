@@ -1,21 +1,21 @@
-<h1 align="center">¡Hi! 👋 i´m Juan Diego Quintana</h1>
+<h1 align="center">¡Hi! 👋 I'm Juan Diego Quintana</h1>
 
 <p align="center">
-text, text
+Passionate developer focused on creating impactful solutions through web and mobile technologies.
 </p>
 
 ---
 
-<h2 aling"left> 🚀  about me</h2>
+<h2 align="left">🚀 About Me</h2>
 
-🔭 I'm 21 years old and passionate about web, mobile development.
-🤝 I enjoy working in teams and collaborating on innovative projects.
-📚 I'm always eager to learn new technologies and methodologies to improve my skills.
+<p>🔭 I'm 21 years old and passionate about web and mobile development.</p>
+<p>🤝 I enjoy working in teams and collaborating on innovative projects.</p>
+<p>📚 I'm always eager to learn new technologies and methodologies to improve my skills.</p>
 
 ---
 
 <h2 align="left">🔧 Tech Stack</h2>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
@@ -26,39 +26,43 @@ text, text
 
 ---
 
-
-### 📊 Estadísticas de GitHub
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-
-  <!-- Stats de actividad -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Kintanuki&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" 
     height="170" 
-    alt="Estadísticas de GitHub" 
+    alt="GitHub Stats" 
   />
-
-  <!-- Lenguajes más usados -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Kintanuki&layout=compact&langs_count=6&theme=dracula&hide_border=false" 
     height="170" 
-    alt="Lenguajes más usados" 
+    alt="Top Languages" 
   />
-
 </div>
 
 ---
 
+<h2 align="left">📌 Featured Repositories</h2>
 
-### 📫 Contacto
+Aquí algunos de los proyectos que estoy desarrollando o en los que he trabajado:
 
-Si quieres hablar sobre proyectos, colaborar o simplemente saludar:
+- 🔐 [Flutter + Express Auth System](https://github.com/Kintanuki/flutter-auth-api)
+- 🍔 [Campus Food Delivery App (like Rappi)](https://github.com/Kintanuki/app-comida-campus)
+- 📊 [Regression Model with Abalone Data](https://github.com/Kintanuki/regresion-abalone)
+- 🧮 [Mobile Calculator in Flutter](https://github.com/Kintanuki/calculadora-flutter)
 
-- 💌 Gmail: juandiquintanareyes@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/juan-diego-87830a174/
+> *I'm open to collaborations and exciting new projects!*
+
+---
+
+<h2 align="left">📫 Contact</h2>
+
+- 💌 juandiquintanareyes@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-diego-87830a174/)
 
 ---
 
 <p align="center">
-  ¡Gracias por visitar mi perfil! 🌟
+  Thanks for visiting my profile! 🌟
 </p>
