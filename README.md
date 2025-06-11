@@ -8,11 +8,9 @@ text, text
 
 <h2 aling"left> 🚀  about me</h2>
 
-- 🎓 Soy estudiante/desarrollador autodidacta apasionado por el desarrollo de software.
-- 💼 Trabajo en proyectos personales y colaborativos que involucran **Flutter**, **Express**, **MySQL** y más.
-- ⚡ Me interesa el desarrollo móvil, las APIs y la seguridad informática.
-- 📚 Siempre estoy aprendiendo cosas nuevas para mejorar como desarrollador.
-- 🧠 Actualmente enfocado en crear soluciones prácticas para la comunidad universitaria.
+🔭 I'm 21 years old and passionate about web, mobile development.
+🤝 I enjoy working in teams and collaborating on innovative projects.
+📚 I'm always eager to learn new technologies and methodologies to improve my skills.
 
 ---
 
@@ -51,21 +49,6 @@ text, text
 
 ---
 
-
-
-
-### 📌 Repositorios destacados
-
-Aquí algunos de los proyectos que estoy desarrollando o en los que he trabajado:
-
-- 🔐 [Sistema de Autenticación con Flutter y Express](https://github.com/Kintanuki/flutter-auth-api)
-- 🍔 [App de pedidos de comida para campus universitario (tipo Rappi)](https://github.com/Kintanuki/app-comida-campus)
-- 📊 [Modelo de regresión con datos de abalone](https://github.com/Kintanuki/regresion-abalone)
-- 🧮 [Calculadora móvil en Flutter](https://github.com/Kintanuki/calculadora-flutter)
-
-> *¡Estoy abierto a colaboraciones y nuevos proyectos interesantes!*
-
----
 
 ### 📫 Contacto
 
