@@ -1,3 +1,4 @@
+
 # Hi, I'm Juan Diego Quintana 👋
 
 ### Software Developer | Systems and Computer Engineering Graduate
@@ -13,7 +14,7 @@ I'm a software developer passionate about building web applications, creating in
 
 ## 🛠️ Technologies & Tools
 
-**Frontend**
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
@@ -22,7 +23,7 @@ I'm a software developer passionate about building web applications, creating in
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-**Backend & Databases**
+### Backend & Databases
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -30,7 +31,7 @@ I'm a software developer passionate about building web applications, creating in
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-**Mobile Development & Tools**
+### Mobile Development & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -45,11 +46,11 @@ I'm a software developer passionate about building web applications, creating in
 
 ### GESGOV — Human Resources Management System
 
-A web application developed to centralize employee information and support human resources processes.
+A web application designed to centralize employee information and support human resources processes.
 
 - **My role:** Frontend development
 - **Technologies:** Vue.js, ApexCharts
-- **Features:** Information dashboards, filters, reports, and human resources management interfaces
+- **Features:** Dashboards, filters, reports, and human resources management interfaces
 
 ### Academia Dampro — Dance Academy Website
 
@@ -58,12 +59,15 @@ A responsive website designed to showcase a dance academy, its teams, performanc
 - **Focus:** Responsive design and user experience
 - **Technologies:** Vue.js, JavaScript, CSS
 
+<!--
 ### CoreAdmin — Administrative Management Platform
 
-A personal project concept for managing income, expenses, and financial records through an administrative dashboard.
+A personal project currently in the planning and design phase, focused on simplifying financial management through an intuitive administrative dashboard.
 
-- **Focus:** Interface design and application architecture
-- **Planned technologies:** React, Tailwind CSS, Node.js, MySQL
+- **Planned features:** Income and expense tracking, financial records, and reports.
+- **Planned technologies:** React, Tailwind CSS, Node.js, and MySQL.
+- **Status:** Planning and design.
+-->
 
 ---
 
@@ -89,4 +93,4 @@ A personal project concept for managing income, expenses, and financial records 
 
 I'm open to connecting with other developers, collaborating on interesting projects, and exploring new professional opportunities.
 
-**Thanks for visiting my profile!**
+**Thanks for visiting my profile!** 🌟
