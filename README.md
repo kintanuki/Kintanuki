@@ -1,85 +1,92 @@
-# 👋 Hi, I'm Juan Diego Quintana
+# Hi, I'm Juan Diego Quintana 👋
 
-### Software Developer | Web Development | Backend & Frontend
+### Software Developer | Systems and Computer Engineering Graduate
 
-I'm a Systems and Computer Engineering graduate passionate about building useful, scalable, and user-centered software solutions. I enjoy developing web applications, designing intuitive interfaces, and continuously learning new technologies to improve my skills.
+I'm a software developer passionate about building web applications, creating intuitive user experiences, and developing solutions to real-world problems. I'm always looking to learn new technologies, improve my skills, and collaborate on meaningful projects.
 
-- 🎓 **Education:** Systems and Computer Engineering
-- 💻 **Interests:** Software Engineering, Web Development, Cloud Computing
-- 🤝 **Approach:** Teamwork, problem-solving, and continuous learning
-- 🌱 **Currently focused on:** Building projects and strengthening my software development skills
+- 🎓 Systems and Computer Engineering graduate
+- 💻 Interested in web development, software engineering, and cloud computing
+- 🚀 Focused on building practical, user-centered applications
+- 🌱 Always learning and exploring new technologies
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-### Languages & Frameworks
+**Frontend**
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### Databases & Tools
+**Backend & Databases**
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+**Mobile Development & Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### GESGOV — Human Resources Management
+### GESGOV — Human Resources Management System
 
-A web application designed to centralize and facilitate the consultation of employee information and human resources processes.
+A web application developed to centralize employee information and support human resources processes.
 
-- **Focus:** Frontend development and user interfaces
+- **My role:** Frontend development
 - **Technologies:** Vue.js, ApexCharts
-- **Key areas:** Permissions, medical leave, vacations, absenteeism, and reports
+- **Features:** Information dashboards, filters, reports, and human resources management interfaces
 
 ### Academia Dampro — Dance Academy Website
 
-A web experience designed to showcase the academy, its dance groups, performances, team, and upcoming events.
+A responsive website designed to showcase a dance academy, its teams, performances, and upcoming events.
 
-- **Focus:** Responsive web design and user experience
+- **Focus:** Responsive design and user experience
 - **Technologies:** Vue.js, JavaScript, CSS
 
-### CoreAdmin — Administrative Management
+### CoreAdmin — Administrative Management Platform
 
-A personal project concept focused on organizing income, expenses, and financial records through an administrative dashboard.
+A personal project concept for managing income, expenses, and financial records through an administrative dashboard.
 
 - **Focus:** Interface design and application architecture
-- **Technologies:** React, Tailwind CSS *(planned)*
+- **Planned technologies:** React, Tailwind CSS, Node.js, MySQL
 
 ---
 
-## 📈 GitHub Overview
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kintanuki&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kintanuki&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kintanuki&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Get in Touch
 
 <p>
   <a href="mailto:juandiquintanareyes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Kintanuki">
-    <img src="https://img.shields.io/badge/GitHub-Kintanuki-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
 </p>
 
-I'm always open to learning opportunities, collaborating on interesting projects, and connecting with other developers.
+I'm open to connecting with other developers, collaborating on interesting projects, and exploring new professional opportunities.
 
 **Thanks for visiting my profile!**
