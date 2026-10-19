@@ -5,7 +5,7 @@
 
 I'm a software developer passionate about building web applications, creating intuitive user experiences, and developing solutions to real-world problems. I'm always looking to learn new technologies, improve my skills, and collaborate on meaningful projects.
 
-- 🎓 Systems and Computer Engineering graduate
+- 🎓 Systems and Informatics Engineering
 - 💻 Interested in web development, software engineering, and cloud computing
 - 🚀 Focused on building practical, user-centered applications
 - 🌱 Always learning and exploring new technologies
